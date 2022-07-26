@@ -1,0 +1,15 @@
+{
+  "name": "criando-server-nodejs",
+  "version": "1.0.0",
+  "description": "Criando um servidor com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Alairton Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

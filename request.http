@@ -1,0 +1,35 @@
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+    "name": "Marca texto amarelo",
+    "price": 5.50
+}
+
+
+### // representa a separação entre os métodos.
+
+GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/beb366bc-6084-47f9-8e0f-3f70577709fa
+
+###
+// alterado um objeto produto.
+PUT http://localhost:4002/products/fec849ab-470f-4c21-bde3-82329e449ba6
+Content-Type: application/json
+
+{
+    "name": "Marca texto amarelo",
+    "price": 3.50
+}
+
+###
+DELETE http://localhost:4002/products/
+
+
+
+
+
+ 

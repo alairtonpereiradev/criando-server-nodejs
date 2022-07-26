@@ -1,0 +1,27 @@
+[
+  {
+    "name": "borracha",
+    "price": 1.5,
+    "id": "9b416c52-90e6-4d69-ba06-19ca615f10d0"
+  },
+  {
+    "name": "lapis",
+    "price": 1.5,
+    "id": "9c5e1d8f-061f-4c09-914c-594dbbbd01c4"
+  },
+  {
+    "name": "lapiseira",
+    "price": 11.5,
+    "id": "163d4679-7da1-4e0d-b441-9b94530baee6"
+  },
+  {
+    "name": "Marca texto amarelo",
+    "price": 3.5,
+    "id": "bec9097a-03d9-44a9-b462-6b816d3d2cba"
+  },
+  {
+    "name": "Marca texto azul",
+    "price": 3.9,
+    "id": "74b4e991-8bd6-4028-adb9-7d71f97a9d3b"
+  }
+]
